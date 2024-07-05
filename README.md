@@ -50,7 +50,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 2. **Install the required dependencies:**
 
 ```bash
-pip install -r requirements.txt
+   pip install -r requirements.txt
 ```
 
 3. Set up the Raspberry Pi:
@@ -84,5 +84,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 Thank you for your interest in ParkSmart! Together, let's make urban mobility smarter and more efficient! 🚀
-```
+
 
