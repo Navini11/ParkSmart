@@ -9,8 +9,8 @@ def calc_diff(im1, im2):
     return np.abs(np.mean(im1) - np.mean(im2))
 
 
-mask = './mask_1920_1080.png'
-video_path = './samples/parking_1920_1080_loop.mp4'
+mask = r'C:\Users\DELL\Documents\Internship\ParkSmart\parking-spot-detection-and-counter\mask_crop.png'
+video_path = r'C:\Users\DELL\Documents\Internship\ParkSmart\parking-spot-detection-and-counter\data\parking_crop_loop.mp4'
 
 
 mask = cv2.imread(mask, 0)

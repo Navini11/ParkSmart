@@ -1,2 +1,3 @@
 venv/
 parking-spot-detection-and-counter/data/
+parking-spot-detection-and-counter/model-training-image-classifier/clf-data/
